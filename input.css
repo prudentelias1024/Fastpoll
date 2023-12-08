@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: Poppins;
+    src: url('/fonts/Poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: Outfit;
+    src: url('/fonts/Outfit/static/Outfit-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: Montserrat;
+    src: url('/fonts/Montserrat/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: Mulish;
+    src: url('/fonts/Mulish/Mulish-Regular.ttf');
+}
+@font-face {
+    font-family: Maven;
+    src: url('/fonts/Maven_Pro/static/MavenPro-Regular.ttf');
+}
